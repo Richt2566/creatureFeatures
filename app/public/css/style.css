@@ -1,0 +1,19 @@
+.jumbotron{
+	background-color: #091C0C;
+}
+
+body {
+	color: red;
+	font-family: 'Nosifer', 'Trade Winds';
+	background-color: #042645;
+}
+
+.btn {
+	background-color: #042645;
+	color: red;
+}
+
+.chosen-select {
+	background-color: #091C0C;
+}
+
